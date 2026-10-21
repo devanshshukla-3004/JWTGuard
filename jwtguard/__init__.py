@@ -1,0 +1,1 @@
+"""JWTGuard offline analyzer package."""
